@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Anup Bhattarai</h1>
-<h3 align="center">🌟 Igniting tech and finance spark with data, AI, marketing, content, stocks and service! 🔥</h3>
+<h3 align="center">🌟 Igniting tech and finance spark with data science,ML,digital marketing, content, stocks and service! 🔥</h3>
 <img align="right" alt="coding" width="400" src="https://i.imgur.com/pQT0l.gif">
 
 - 🔭 I’m from **Nepal**
